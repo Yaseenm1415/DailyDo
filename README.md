@@ -1,3 +1,6 @@
+# DailyDo
+DailyDo is a simple React-based task manager that helps users add, delete, and complete daily tasks. 
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
